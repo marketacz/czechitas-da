@@ -1,1 +1,2 @@
-﻿# Analýza cukráren pro lidi s dietními omezeními - skripty z Kebooly
+﻿# Analýza cukráren pro lidi s dietními omezeními
+ ## skripty z Kebooly
