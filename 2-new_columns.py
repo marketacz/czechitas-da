@@ -23,6 +23,12 @@ def parse_block(s: str) -> list[int]:
 
     nonstop
     [0, 1440]
+
+    Closed
+    []
+
+    '' nevyplneno
+    [-1]
     """
 
     if s == "Open 24 hours":
