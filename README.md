@@ -6,4 +6,4 @@ source sample: ukázka prvních 1500 výsledků scrapu
 3. join tabulek
 4. dočišťování dat (výjimky)
 
-odkaz na blogový článek: WIP
+odkaz na blogový článek: [medium.com](https://medium.com/@jetelovamarketa/anal%C3%BDza-cukr%C3%A1ren-pro-lidi-s-dietn%C3%ADmi-omezen%C3%ADmi-3327c0dc46d0)
